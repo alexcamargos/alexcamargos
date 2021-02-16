@@ -1,5 +1,8 @@
-## Hello World!
+## Hello World! Eu sou Alexsander Lopes Camargos.
 <br/>
+## Sobre Mim
+Eu sou brasileiro, tenho 35 anos de idade e sou programador iniciante.
+
 Sou apaixonado por adquirir conhecimento útil que possa ser aplicado em problemas do cotidiano, formando em  Administração; possuo experiência em rotinas/procedimentos administrativos além de vivência no gerenciamento de pessoas.
 
 Não tenho medo de enfrentar novos desafios, e é exatamente isso que busco ao aplicar meus conhecimentos em processos que transformem a complexidade em simplicidade. Essa busca levou-me ao mundo das TICs (tecnologias de comunicações e informação), tornando-me usuário de ferramentas GNU/LINUX desde 2005.
@@ -26,8 +29,7 @@ Ate o momento, aprendi a escrever código modular e sustentável (utilizando Pyt
 </p>
 <br/>
 <br/>
-
-[![Alexsander Lopes Camargos GitHub stats](https://github-readme-stats.vercel.app/api?username=alexcamargos)](https://github.com/alexcamargos/github-readme-stats)
+[![Alexsander Lopes Camargos GitHub stats](https://github-readme-stats.vercel.app/api?username=alexcamargos&theme=dark&show_icons=true)](https://github.com/alexcamargos/github-readme-stats)
 <br/>
 <br/>
 
