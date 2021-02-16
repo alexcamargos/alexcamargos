@@ -29,7 +29,8 @@ Ate o momento, aprendi a escrever código modular e sustentável (utilizando Pyt
 </p>
 <br/>
 <br/>
-[![Alexsander Lopes Camargos GitHub stats](https://github-readme-stats.vercel.app/api?username=alexcamargos&theme=dark&show_icons=true)](https://github.com/alexcamargos/github-readme-stats)
+
+[![Alexsander Lopes Camargos GitHub stats](https://github-readme-stats.vercel.app/api?username=alexcamargos&theme=darcula&show_icons=true)](https://github.com/alexcamargos/github-readme-stats)
 <br/>
 <br/>
 
