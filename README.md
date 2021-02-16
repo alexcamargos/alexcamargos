@@ -11,16 +11,13 @@ Ate o momento, aprendi a escrever código modular e sustentável (utilizando Pyt
 <br/>
 
 ## Filosofia de vida:
-<br/>
-**K**eep **I**t **S**imple, **S**tupid!
 
+**K**eep **I**t **S**imple, **S**tupid!
+<br/>
 *Simplicidade é o último grau de sofisticação.*
 <br/>
-[![Alexsander Lopes Camargos GitHub stats](https://github-readme-stats.vercel.app/api?username=alexcamargos)](https://github.com/alexcamargos/github-readme-stats)
-<br/>
-<br/>
+
 ## 📫 Como me encontrar:
-<br/>
 <p align="center">
 <br>
 <a href="https://www.fb.com/alexcamargos"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>&nbsp;
@@ -29,6 +26,11 @@ Ate o momento, aprendi a escrever código modular e sustentável (utilizando Pyt
 </p>
 <br/>
 <br/>
+
+[![Alexsander Lopes Camargos GitHub stats](https://github-readme-stats.vercel.app/api?username=alexcamargos)](https://github.com/alexcamargos/github-readme-stats)
+<br/>
+<br/>
+
 <!--
 **alexcamargos/alexcamargos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
