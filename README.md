@@ -12,7 +12,7 @@ Ate o momento, aprendi a escrever código modular e sustentável (utilizando Pyt
 
 ## Filosofia de vida:
 <br/>
-***K**eep **I**t **S**imple, Stupid!*
+**K**eep **I**t **S**imple, **S**tupid!
 
 *Simplicidade é o último grau de sofisticação.*
 <br/>
