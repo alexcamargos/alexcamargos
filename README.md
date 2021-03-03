@@ -1,16 +1,18 @@
+<!--About session-->
 # Sobre Mim
 
-### Hello World!
+### Hello world! I'm Alexsander
 
-Eu sou Alexsander Lopes Camargos, brasileiro, tenho 35 anos de idade, sou apaixonado por adquirir conhecimento útil que possa ser aplicado em problemas do cotidiano, formando em  Administração; possuo experiência em rotinas/procedimentos administrativos além de vivência no gerenciamento de pessoas.
+#### Welcome to my GitHub!
 
-Não tenho medo de enfrentar novos desafios, e é exatamente isso que busco ao aplicar meus conhecimentos em processos que transformem a complexidade em simplicidade. Essa busca levou-me ao mundo das TICs (tecnologias de comunicações e informação), tornando-me usuário de ferramentas GNU/LINUX desde 2005.
+Eu sou Alexsander Lopes Camargos, brasileiro, tenho 35 anos de idade, apaixonado por aquisição de conhecimento que aplico na resolução de problemas do cotidiano. **Analista Administrativo Pleno**, com mais de 15 anos de experiência em rotinas/procedimentos administrativos e gerenciamento de pessoas, possuo formação em bacharelado em Administração.
 
-Ate o momento, aprendi a escrever código modular e sustentável (utilizando Python), bem como gerenciar o processo de desenvolvimento utilizando Git/GitHub, estou estuando para processo de desenvolvimento de software, com foco em back-end.
-<br/>
-*"Um dia que não apresente um novo desafio é um dia perdido".*
-<br/>
-<br/>
+Não tenho medo de enfrentar novos desafios, e é exatamente isso que busco ao aplicar meus conhecimentos em processos que transformem a complexidade em simplicidade. Essa busca levou-me ao mundo das TICs (tecnologias de comunicações e informação), sendo-me usuário de ferramentas GNU/LINUX desde 2003.
+
+Ate o momento, aprendi a escrever código modular e sustentável (utilizando Python), bem como gerenciar o processo de desenvolvimento utilizando Git/GitHub, estudando sobre o processo de desenvolvimento de software, com foco tecnologias aplicados ao back-end.
+
+> *"Um dia que não apresente um novo desafio é um dia perdido".*
+
 
 ## Filosofia de vida:
 
@@ -33,17 +35,7 @@ Ate o momento, aprendi a escrever código modular e sustentável (utilizando Pyt
 <br/>
 <br/>
 
-<!--
-**alexcamargos/alexcamargos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="right">
+<p align="left"><img src="https://komarev.com/ghpvc/?username=alexcamargos" alt="Alexsander Lopes Camargos"/></p> 
+<p align="left"><img src="https://visitor-badge.laobi.icu/badge?page_id=alexcamargos" alt="Alexsander Lopes Camargos"/></p>
+</div>
