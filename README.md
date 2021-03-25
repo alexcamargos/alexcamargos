@@ -33,7 +33,7 @@ Ate o momento, aprendi a escrever código modular e sustentável (utilizando Pyt
 <br/>
 
 ## 📫 Como me encontrar:
-<p align="right">
+<p align="left">
   <br>
   <a href="https://www.linkedin.com/in/alexcamargos/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
   <a href="https://www.fb.com/alexcamargos"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>&nbsp;
