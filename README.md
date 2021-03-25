@@ -17,7 +17,7 @@ Ate o momento, aprendi a escrever código modular e sustentável (utilizando Pyt
 
 
 
-:thinking: *I'm looking for help to improve my English.!
+:thinking: *I'm looking for help to improve my English!*
 
 
 
