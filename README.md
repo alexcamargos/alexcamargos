@@ -7,11 +7,12 @@
 <div>
 <img  align="right" src="https://raw.githubusercontent.com/alexcamargos/alexcamargos/main/capa_github.png" style="zoom:10%;" />
 <p style="text-align: justify;">
-Eu sou Alexsander Lopes Camargos, brasileiro, tenho 35 anos de idade, apaixonado por aquisição de conhecimento que aplico na resolução de problemas do cotidiano. <strong>Analista Administrativo Pleno</strong>, com mais de 15 anos de experiência em rotinas/procedimentos administrativos e gerenciamento de pessoas, possuo formação em bacharelado em Administração.
-Não tenho medo de enfrentar novos desafios, e é exatamente isso que busco ao aplicar meus conhecimentos em processos que transformem a complexidade em simplicidade. Essa busca levou-me ao mundo das TICs (tecnologias de comunicações e informação), sendo-me usuário de ferramentas GNU/LINUX desde 2003.
+Sou brasileiro, tenho 35 anos, sou apaixonado por resolver problemas, não tenho medo de enfrentar novos desafios, e é exatamente isso que busco ao aplicar meus conhecimentos em processos que transformem complexidade em simplicidade, auxiliando na resolução dos mais diversos problemas. Atuo por mais de 15 anos na área administrava, tenho formação superior em administração de empresas, com sólida experiência em rotinas/procedimentos administrativos e gerenciamento de pessoas.
 </p></div>
 
-Ate o momento, aprendi a escrever código modular e sustentável (utilizando Python), bem como gerenciar o processo de desenvolvimento utilizando Git/GitHub, estudando sobre o processo de desenvolvimento de software, com foco tecnologias aplicados ao back-end.
+Sou usuário de sistemas open source, em especial do ecossistema GNU/Linux, desde 2003, o que criou uma familiaridade com variadas tecnologias da informação e comunicação, levando-me, em 2021, a buscar mudar minha área de atuação, migrando o foco das minhas seções autoaprendizado para as diversas camadas que compõem o desenvolvimento de software.
+
+Ate o momento, aprendi a escrever código modular, reutilizável e sustentável, utilizando a linguagem de programação Python, bem como a gerenciar e controlar o processo de desenvolvimento utilizando Git/Github, estou estudando como melhorar meu entendimento do processo de desenvolvimento full stack, buscando dominar as diversas tecnologias aplicadas tanto no back-end e quanto no front-end.
 
 > *"Um dia que não apresente um novo desafio é um dia perdido".*
 
