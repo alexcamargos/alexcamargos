@@ -1,4 +1,5 @@
 <!--About session-->
+
 # Sobre Mim
 
 ### :wave:Hello world! I'm Alexsander
@@ -8,17 +9,18 @@
 <div>
 <img  align="right" src="https://raw.githubusercontent.com/alexcamargos/alexcamargos/main/capa_github.png" style="zoom:10%;" />
 <p style="text-align: justify;">
-Eu sou Alexsander Lopes Camargos, brasileiro, tenho 35 anos de idade, apaixonado por aquisição de conhecimento que aplico na resolução de problemas do cotidiano. <strong>Analista Administrativo Pleno</strong>, com mais de 15 anos de experiência em rotinas/procedimentos administrativos e gerenciamento de pessoas, possuo formação em bacharelado em Administração.
-Não tenho medo de enfrentar novos desafios, e é exatamente isso que busco ao aplicar meus conhecimentos em processos que transformem a complexidade em simplicidade. Essa busca levou-me ao mundo das TICs (tecnologias de comunicações e informação), sendo-me usuário de ferramentas GNU/LINUX desde 2003.
+Sou brasileiro, tenho 35 anos, sou apaixonado por resolver problemas, não tenho medo de enfrentar novos desafios, e é exatamente isso que busco ao aplicar meus conhecimentos em processos que transformem complexidade em simplicidade, auxiliando na resolução dos mais diversos problemas. Atuo por mais de 15 anos na área administrava, tenho formação superior em administração de empresas, com sólida experiência em rotinas/procedimentos administrativos e gerenciamento de pessoas.
 </p></div>
 
-Ate o momento, aprendi a escrever código modular e sustentável (utilizando Python), bem como gerenciar o processo de desenvolvimento utilizando Git/GitHub, estudando sobre o processo de desenvolvimento de software, com foco tecnologias aplicados ao back-end.
+Sou usuário de sistemas open source, em especial do ecossistema GNU/Linux, desde 2003, o que criou uma familiaridade com variadas tecnologias da informação e comunicação, levando-me, em 2021, a buscar mudar minha área de atuação, migrando o foco das minhas seções autoaprendizado para as diversas camadas que compõem o desenvolvimento de software.
 
-> *"Um dia que não apresente um novo desafio é um dia perdido".*
+Ate o momento, aprendi a escrever código modular, reutilizável e sustentável, utilizando a linguagem de programação Python, bem como a gerenciar e controlar o processo de desenvolvimento utilizando Git/Github, estou estudando como melhorar meu entendimento do processo de desenvolvimento full stack, buscando dominar as diversas tecnologias aplicadas tanto no back-end e quanto no front-end.
+
+> _"Um dia que não apresente um novo desafio é um dia perdido"._
 
 :round_pushpin: Capelinha/MG
 
-:thinking: *I'm looking for help to improve my English.!
+:thinking: _I'm looking for help to improve my English!_
 
 🌱 **I’m currently learning**: Python, C#, Git/GitHub/Bitbucket, Agile Development Methodologies, Software architecture, Data Structures: Hashtables, Trees and Graphs mainly.
 
@@ -28,10 +30,11 @@ Ate o momento, aprendi a escrever código modular e sustentável (utilizando Pyt
 
 **K**eep **I**t **S**imple, **S**tupid!
 <br/>
-*Simplicidade é o último grau de sofisticação.*
+_Simplicidade é o último grau de sofisticação._
 <br/>
 
 ## 📫 Como me encontrar:
+
 <div align="center">
   <br>
   <a href="https://www.linkedin.com/in/alexcamargos/">
@@ -61,8 +64,8 @@ Ate o momento, aprendi a escrever código modular e sustentável (utilizando Pyt
   <img align="center" alt="CSharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 
-
 ## GitHub stats
+
 <div style="display: flex">
 <img height="150em" src=https://github-readme-stats.vercel.app/api?username=alexcamargos&show_icons=true&theme=dark&include_all_commits=true&count_private=true alt="Alexsander Lopes Camargos' GitHub Stats"/>
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexcamargos&layout=compact&langs_count=7&theme=dark" alt="Alexsander Lopes Camargos Most Used Languages"/>
