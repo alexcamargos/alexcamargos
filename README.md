@@ -2,7 +2,9 @@
 
 # Sobre Mim
 
-### :wave:Hello world! I'm Alexsander
+### :wave: Hello world! I'm Alexsander
+
+![Trabalhando](work_table.png)
 
 #### Welcome to my GitHub!
 
