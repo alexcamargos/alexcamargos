@@ -62,9 +62,6 @@ _Simplicidade é o último grau de sofisticação._ - Leonard Thiessen
 
 🌱 **I’m currently learning**: Python, C#, Git/GitHub/Bitbucket, Agile Development Methodologies, Software architecture, Data Structures: Hashtables, Trees and Graphs mainly.
 
-<br/>
-<br/>
-
 <!-- Projects Session -->
 ## Projetos
 ![Mesa de trabalho](work_table.png)
@@ -76,8 +73,8 @@ O [Python Fundamentus](https://pypi.org/project/pyfundamentus/) é uma API desen
 ### [Bacen IF.data AutoScraper & Data Manager](https://github.com/alexcamargos/bacen-ifdata-scraper)
 O [Banco Central do Brasil (Bacen)](https://www.bcb.gov.br/), de forma trimestral, publica relatórios detalhados com uma vasta gama de dados sobre instituições financeiras, disponíveis através do [Portal IF.data](https://www3.bcb.gov.br/ifdata/). Estes dados, embora valiosos, exigem processamento e análise cuidadosa para extrair informações significativas. O objetivo central deste projeto é empregar técnicas de mineração de dados aos conjuntos de dados do Portal IF.data com o objetivo de criar insights sobre o sistema financeiro brasileiro. O aspecto mais importante aprendido neste projeto foi o uso do [Selenium](https://www.selenium.dev/) para automatizar tarefas repetitivas. Isso nos possibilitou coletar informações de forma eficiente, apoiando diretamente as decisões práticas.
 
-<br/>
-<br/>
+### [Nobel Prize Master Data](https://www.novypro.com/project/nobel-prize-master-data-power-bi)
+Este projeto oferece uma análise detalhada, realizada através do [Microsoft Power BI](https://powerbi.microsoft.com/pt-br/), dos laureados com o [Prêmio Nobel](https://www.nobelprize.org/) de 1901 a 2019. O objetivo é identificar padrões, reconhecer as contribuições de diferentes países e destacar a diversidade entre os premiados desta distinção renomada. A análise aborda várias facetas, com ênfase especial na distribuição geográfica dos ganhadores. Os Estados Unidos se sobressaem, com 272 prêmios, o que representa 35,74% do total de laureados, seguidos de perto pelo Reino Unido e pela Alemanha. Este estudo visa não apenas a celebrar as realizações individuais, mas também a oferecer insights sobre as tendências globais e a evolução da excelência acadêmica e profissional ao longo dos anos. O aspecto mais valioso aprendido neste projeto foi o domínio do [Power Query](https://powerquery.microsoft.com/) para construir um modelo de dados eficiente e a aplicação da linguagem [DAX (Data Analysis Expressions)](https://learn.microsoft.com/pt-br/dax/) para sintetizar informações. Essas habilidades aprimoraram significativamente nossa capacidade de extrair valor ao manipular dados, facilitando a análise e a tomada de decisões baseadas em insights precisos.
 
 <!-- GitHub stats Session -->
 ## GitHub stats
