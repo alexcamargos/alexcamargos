@@ -72,6 +72,11 @@ _Simplicidade é o último grau de sofisticação._ - Leonard Thiessen
 ### Python Fundamentus (pyFundamentus)
 O [Python Fundamentus](https://pypi.org/project/pyfundamentus/) é uma API desenvolvida em Python projetada para facilitar o acesso rápido aos principais indicadores fundamentalistas das ações mais relevantes do mercado brasileiro. Utilizando as informações disponíveis no site [Fundamentus](https://www.fundamentus.com.br/) disponibiliza informações financeiras e fundamentalistas detalhadas das empresas listadas na B3, este projeto busca trazer a riqueza de dados financeiros diretamente para suas aplicações Python de maneira eficiente e organizada. O aprendizado mais significativo deste projeto foi a utilização do [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/), uma biblioteca eficaz para raspagem de dados na web. Ela facilitou a extração de informações financeiras do site Fundamentus, permitindo a integração desses dados de maneira fluída e direta em aplicações Python.
 <br/>
+
+### [Bacen IF.data AutoScraper & Data Manager](https://github.com/alexcamargos/bacen-ifdata-scraper)
+O [Banco Central do Brasil (Bacen)](https://www.bcb.gov.br/), de forma trimestral, publica relatórios detalhados com uma vasta gama de dados sobre instituições financeiras, disponíveis através do [Portal IF.data](https://www3.bcb.gov.br/ifdata/). Estes dados, embora valiosos, exigem processamento e análise cuidadosa para extrair informações significativas. O objetivo central deste projeto é empregar técnicas de mineração de dados aos conjuntos de dados do Portal IF.data com o objetivo de criar insights sobre o sistema financeiro brasileiro. O aspecto mais importante aprendido neste projeto foi o uso do [Selenium](https://www.selenium.dev/) para automatizar tarefas repetitivas. Isso nos possibilitou coletar informações de forma eficiente, apoiando diretamente as decisões práticas.
+
+<br/>
 <br/>
 
 <!-- GitHub stats Session -->
