@@ -1,8 +1,10 @@
+<!-- Hero Session -->
 # Welcome to my GitHub!
 
 ### :wave: Hello world! I'm Alexsander Camargos
 
 [![LinkedIn](https://img.shields.io/badge/%40alexcamargos-230A66C2?style=social&logo=LinkedIn&label=LinkedIn&color=white)](https://www.linkedin.com/in/alexcamargos)
+
 
 <!--About Session-->
 ## Sobre Mim
@@ -16,6 +18,7 @@ Durante minha atual graduação, aprofundei meus conhecimentos em matemática, e
 Estou atualmente buscando atuar profissionalmente como analista ou cientista de de dados, com o objetivo claro de impulsionar decisões empresariais estratégicas através de insights baseados em dados.
 
 > _"Um dia que não apresente um novo desafio é um dia perdido"._
+
 
 <!-- Contact Session -->
 ## 📫 Como me encontrar:
@@ -35,14 +38,43 @@ Estou atualmente buscando atuar profissionalmente como analista ou cientista de 
   </a>
 </div>
 
+
 <!-- Skills Session -->
 ## Habilidades Técnicas
 
-- Linguagens de programação: Python, R, SQL
-- Visualização: Power BI, Tableau, Streamlit
-- Cloud: Vercel, AWS, Oracle Cloud, Linode, Netlify 
-- Machine Learning: Classification, Regression, AdaBoost, K-nearest neighbor, Naïve Bayes, Random forests, Support vector machines 
-- Habilidades: [English B2 Upper Intermediate 54/100](https://www.efset.org/cert/qqChFR)
+### Linguagem e ferramentas
+
+- Python, R, SQL, DAX, Power Query M formula language
+- DuckDB, PySpark, NumPy, Pandas, Polars, data.table
+- Matplotlib, Seaborn, Plotly
+
+### Gerenciamento de banco de dados
+
+- PostgreSQL, MongoDB, MySQL, MariaDB, SQL Server
+- DBeaver
+
+### Visualização de dados
+- Power BI, Tableau, Looker Studio
+- Streamlit, Evidence , Rill
+
+### Cloud Computing and Data Pipelines
+
+- AWS, Azure, MotherDuck, Oracle Cloud
+- Vercel, Linode, Netlify
+- Databricks
+
+### Machine Learning
+
+- Classification, Regression, Random forests, Support vector machines,
+- AdaBoost, K-nearest neighbor, Naïve Bayes
+
+
+<!-- Non-technical skills Session -->
+## Habilidades não técnicas
+- [English B2 Upper Intermediate 54/100](https://www.efset.org/cert/qqChFR)
+- Definição de KPIs e indicadores
+- Probabilidade e Estatística
+- Storytelling
 
 <!-- Philosophy Session -->
 ## :earth_americas: Filosofia de vida:
@@ -51,16 +83,17 @@ Estou atualmente buscando atuar profissionalmente como analista ou cientista de 
 <br/>
 _Simplicidade é o último grau de sofisticação._ - Leonard Thiessen
 
-<br/>
-<br/>
+
+<!-- Random Information -->
+## Informações Aleatórias
 
 :round_pushpin: Capelinha/MG
 
 :balloon: **Fatos sobre mim**: :video_game: gamer, :books: leitor, :bicyclist: ciclista, :dog: dog lover, :nerd_face: nerd.
 
-:thinking: _I'm looking for help to improve my English!_
+🌱 **Atualmente estou aprendendo**: Agile Development Methodologies, Software architecture, Data Structures: Hashtables, Trees and Graphs mainly.
 
-🌱 **I’m currently learning**: Python, C#, Git/GitHub/Bitbucket, Agile Development Methodologies, Software architecture, Data Structures: Hashtables, Trees and Graphs mainly.
+:thinking: _I'm looking for help to improve my English!_
 
 <!-- Projects Session -->
 ## Projetos
@@ -75,6 +108,7 @@ O [Banco Central do Brasil (Bacen)](https://www.bcb.gov.br/), de forma trimestra
 
 ### [Nobel Prize Master Data](https://www.novypro.com/project/nobel-prize-master-data-power-bi)
 Este projeto oferece uma análise detalhada, realizada através do [Microsoft Power BI](https://powerbi.microsoft.com/pt-br/), dos laureados com o [Prêmio Nobel](https://www.nobelprize.org/) de 1901 a 2019. O objetivo é identificar padrões, reconhecer as contribuições de diferentes países e destacar a diversidade entre os premiados desta distinção renomada. A análise aborda várias facetas, com ênfase especial na distribuição geográfica dos ganhadores. Os Estados Unidos se sobressaem, com 272 prêmios, o que representa 35,74% do total de laureados, seguidos de perto pelo Reino Unido e pela Alemanha. Este estudo visa não apenas a celebrar as realizações individuais, mas também a oferecer insights sobre as tendências globais e a evolução da excelência acadêmica e profissional ao longo dos anos. O aspecto mais valioso aprendido neste projeto foi o domínio do [Power Query](https://powerquery.microsoft.com/) para construir um modelo de dados eficiente e a aplicação da linguagem [DAX (Data Analysis Expressions)](https://learn.microsoft.com/pt-br/dax/) para sintetizar informações. Essas habilidades aprimoraram significativamente nossa capacidade de extrair valor ao manipular dados, facilitando a análise e a tomada de decisões baseadas em insights precisos.
+
 
 <!-- GitHub stats Session -->
 ## GitHub stats
