@@ -42,6 +42,12 @@ Estou atualmente buscando atuar profissionalmente como analista ou cientista de 
 <!-- Skills Session -->
 ## Habilidades Técnicas
 
+### Formação:
+- Pós-Graduação em Estatística aplicada (2025)
+- MBA em Business Intelligence (2024)
+- Bacharelado em Ciências econômicas (2024)
+- Bacharelado em Administração (2016)
+
 ### Linguagem e ferramentas
 
 - Python, R, SQL, DAX, Power Query M formula language
