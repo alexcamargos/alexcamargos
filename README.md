@@ -9,7 +9,7 @@
 <!--About Session-->
 ## Sobre Mim
 
-Sou **Bacharel em Administração** e estou concluindo o último ano de **Ciências Econômicas**, áreas nas quais desenvolvi uma paixão por resolver problemas e um espírito destemido para enfrentar novos desafios. Na minha carreira trabalhando na área administrativa, especializei-me na otimização de operações e procedimentos administrativos, focando em tornar sistemas complexos mais eficientes e acessíveis. Essa habilidade me permitiu identificar e implementar melhorias práticas, gerando valor tangível para as organizações com as quais trabalhei.
+Sou **economistas** e **administrador**, áreas nas quais desenvolvi uma paixão por resolver problemas e um espírito destemido para enfrentar novos desafios. Na minha carreira trabalhando na área administrativa, especializei-me na otimização de operações e procedimentos administrativos, focando em tornar sistemas complexos mais eficientes e acessíveis. Essa habilidade me permitiu identificar e implementar melhorias práticas, gerando valor tangível para as organizações com as quais trabalhei.
 
 Minha jornada no campo da tecnologia começou em 2003, quando mergulhei no mundo dos softwares open source, com um foco especial no ecossistema **GNU/Linux**. Esta experiência inicial foi fundamental para desenvolver minhas habilidades em programação, particularmente em escrever código **Python** de forma modular, reutilizável e sustentável. Além disso, adquiri experiência prática no gerenciamento e controle de processos de desenvolvimento usando **Git/GitHub**, aprimorando minhas habilidades em integração e entrega contínuas.
 
@@ -43,6 +43,7 @@ Estou atualmente buscando atuar profissionalmente como analista ou cientista de 
 ## Habilidades Técnicas
 
 ### Formação:
+- MBA em Data Science e Analytics (2027)
 - Pós-Graduação em Estatística aplicada (2025)
 - MBA em Business Intelligence (2024)
 - Bacharelado em Ciências econômicas (2024)
