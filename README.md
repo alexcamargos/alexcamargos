@@ -54,11 +54,11 @@ transformação nos projetos em que me envolvo.
 ## Habilidades Técnicas
 
 ### Formação:
-- MBA em Data Science e Analytics (2027)
-- Pós-Graduação em Estatística aplicada (2025)
-- MBA em Business Intelligence (2024)
-- Bacharelado em Ciências econômicas (2024)
-- Bacharelado em Administração (2016)
+- MBA em Data Science e Analytics, *USP/Esalq* (previsão 2027)
+- Pós-Graduação em Estatística Aplicada, *Anhanguera Educacional* (2025)
+- MBA em Business Intelligence, *Anhanguera Educacional* (2024)
+- Bacharelado em Ciências Econômicas, *Universidade Cesumar* (2024)
+- Bacharelado em Administração, *Centro Universitário Internacional UNINTER* (2016)
 
 ### Linguagem e ferramentas
 
