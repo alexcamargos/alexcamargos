@@ -9,13 +9,23 @@
 <!--About Session-->
 ## Sobre Mim
 
-Sou **Bacharel em Administração** e estou concluindo o último ano de **Ciências Econômicas**, áreas nas quais desenvolvi uma paixão por resolver problemas e um espírito destemido para enfrentar novos desafios. Na minha carreira trabalhando na área administrativa, especializei-me na otimização de operações e procedimentos administrativos, focando em tornar sistemas complexos mais eficientes e acessíveis. Essa habilidade me permitiu identificar e implementar melhorias práticas, gerando valor tangível para as organizações com as quais trabalhei.
+Sou um profissional de dados com sólida formação em Economia e Administração, apaixonado por
+resolver problemas complexos de negócio. Minha carreira é movida pela transformação de dados brutos
+em decisões estratégicas, utilizando a tecnologia como meio e o entendimento do negócio como a
+bússola que guia o impacto real.
 
-Minha jornada no campo da tecnologia começou em 2003, quando mergulhei no mundo dos softwares open source, com um foco especial no ecossistema **GNU/Linux**. Esta experiência inicial foi fundamental para desenvolver minhas habilidades em programação, particularmente em escrever código **Python** de forma modular, reutilizável e sustentável. Além disso, adquiri experiência prática no gerenciamento e controle de processos de desenvolvimento usando **Git/GitHub**, aprimorando minhas habilidades em integração e entrega contínuas.
+Com uma base técnica que venho construindo desde 2003 no ecossistema GNU/Linux, desenvolvi uma forte
+proficiência em **Python**, **SQL** e no ciclo de vida completo dos dados. Lidero projetos desde a concepção
+até a entrega, aplicando minha experiência em engenharia (**ETL/ELT**), modelagem de dados, estatística
+e a criação de visualizações impactantes com ferramentas como **Power BI** e **Tableau**.
 
-Durante minha atual graduação, aprofundei meus conhecimentos em matemática, estatística e econometria. Esses estudos fortaleceram minha base analítica e despertaram um interesse crescente pela ciência de dados, uma área onde posso combinar minhas habilidades técnicas e comportamentais resolvendo problemas.
+Meu foco é gerar valor tangível. Em projetos anteriores, otimizei queries críticas para agilizar a
+tomada de decisão da diretoria, desenvolvi análises que resultaram em um **aumento de 10% na aquisição
+de clientes** e automatizei processos que **reduziram em 90% o tempo para a geração de relatórios**
+essenciais.
 
-Estou atualmente buscando atuar profissionalmente como analista ou cientista de de dados, com o objetivo claro de impulsionar decisões empresariais estratégicas através de insights baseados em dados.
+Meu propósito é claro: continuar a resolver desafios, compartilhar o que aprendo e ser um agente de
+transformação nos projetos em que me envolvo.
 
 > _"Um dia que não apresente um novo desafio é um dia perdido"._
 
