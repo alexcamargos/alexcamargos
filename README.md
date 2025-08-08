@@ -102,17 +102,6 @@ transformação nos projetos em que me envolvo.
 _Simplicidade é o último grau de sofisticação._ - Leonard Thiessen
 
 
-<!-- Random Information -->
-## Informações Aleatórias
-
-:round_pushpin: Capelinha/MG
-
-:balloon: **Fatos sobre mim**: :video_game: gamer, :books: leitor, :bicyclist: ciclista, :dog: dog lover, :nerd_face: nerd.
-
-🌱 **Atualmente estou aprendendo**: Agile Development Methodologies, Software architecture, Data Structures: Hashtables, Trees and Graphs mainly.
-
-:thinking: _I'm looking for help to improve my English!_
-
 <!-- Projects Session -->
 ## Projetos
 ![Mesa de trabalho](work_table.png)
@@ -126,6 +115,18 @@ O [Banco Central do Brasil (Bacen)](https://www.bcb.gov.br/), de forma trimestra
 
 ### [Nobel Prize Master Data](https://www.novypro.com/project/nobel-prize-master-data-power-bi)
 Este projeto oferece uma análise detalhada, realizada através do [Microsoft Power BI](https://powerbi.microsoft.com/pt-br/), dos laureados com o [Prêmio Nobel](https://www.nobelprize.org/) de 1901 a 2019. O objetivo é identificar padrões, reconhecer as contribuições de diferentes países e destacar a diversidade entre os premiados desta distinção renomada. A análise aborda várias facetas, com ênfase especial na distribuição geográfica dos ganhadores. Os Estados Unidos se sobressaem, com 272 prêmios, o que representa 35,74% do total de laureados, seguidos de perto pelo Reino Unido e pela Alemanha. Este estudo visa não apenas a celebrar as realizações individuais, mas também a oferecer insights sobre as tendências globais e a evolução da excelência acadêmica e profissional ao longo dos anos. O aspecto mais valioso aprendido neste projeto foi o domínio do [Power Query](https://powerquery.microsoft.com/) para construir um modelo de dados eficiente e a aplicação da linguagem [DAX (Data Analysis Expressions)](https://learn.microsoft.com/pt-br/dax/) para sintetizar informações. Essas habilidades aprimoraram significativamente nossa capacidade de extrair valor ao manipular dados, facilitando a análise e a tomada de decisões baseadas em insights precisos.
+
+
+<!-- Random Information -->
+## Informações Aleatórias
+
+:round_pushpin: Capelinha/MG
+
+:balloon: **Fatos sobre mim**: :video_game: gamer, :books: leitor, :bicyclist: ciclista, :dog: dog lover, :nerd_face: nerd.
+
+🌱 **Atualmente estou aprendendo**: Agile Development Methodologies, Software architecture, Data Structures: Hashtables, Trees and Graphs mainly.
+
+:thinking: _I'm looking for help to improve my English!_
 
 
 <!-- GitHub stats Session -->
