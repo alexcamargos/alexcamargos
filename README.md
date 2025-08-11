@@ -61,20 +61,20 @@ transformação nos projetos em que me envolvo.
 - Bacharelado em Ciências Econômicas, *Universidade Cesumar* (2024)
 - Bacharelado em Administração, *Centro Universitário Internacional UNINTER* (2016)
 
-### Linguagem e ferramentas
+### Linguagem e ferramentas:
 
-- Python, R, SQL, DAX, Power Query M formula language
-- DuckDB, PySpark, NumPy, Pandas, Polars, data.table
-- Matplotlib, Seaborn, Plotly
+- Python, R, SQL, DAX, Power Query M formula language;
+- PySpark, DuckDB,NumPy, Pandas, Polars, data.table;
+- Matplotlib, Seaborn, Plotly.
 
 ### Gerenciamento de banco de dados
 
-- PostgreSQL, MongoDB, MySQL, MariaDB, SQL Server
-- DBeaver
+- PostgreSQL, MongoDB, MySQL, MariaDB, SQL Server;
+- Datagrip, DBeaver.
 
 ### Visualização de dados
 - Power BI, Tableau, Looker Studio
-- Streamlit, Evidence , Rill
+- Streamlit, Evidence, Rill
 
 ### Cloud Computing and Data Pipelines
 
@@ -90,10 +90,11 @@ transformação nos projetos em que me envolvo.
 
 <!-- Non-technical skills Session -->
 ## Habilidades não técnicas
-- [English B2 Upper Intermediate 54/100](https://www.efset.org/cert/qqChFR)
-- Definição de KPIs e indicadores
-- Probabilidade e Estatística
-- Storytelling
+- [English B2 Upper Intermediate 54/100](https://www.efset.org/cert/qqChFR);
+- Definição de KPIs e indicadores;
+- Probabilidade e Estatística;
+- Metodologias: Scrum, Kanban, Gestão de Riscos, OKR/KPI;
+- Storytelling.
 
 <!-- Philosophy Session -->
 ## :earth_americas: Filosofia de vida:
