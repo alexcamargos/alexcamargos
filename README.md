@@ -97,11 +97,13 @@ transformação nos projetos em que me envolvo.
 
 
 <!-- Philosophy Session -->
-## :earth_americas: Filosofia de vida:
+## :earth_americas: Filosofia de Trabalho
 
 **K**eep **I**t **S**imple, **S**tupid!
 <br/>
 _Simplicidade é o último grau de sofisticação._ - Leonard Thiessen
+
+Acredito que as soluções mais impactantes são aquelas que resolvem problemas complexos de forma clara, eficiente e compreensível para todos os stakeholders.
 
 
 <!-- Projects Session -->
