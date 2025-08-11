@@ -61,40 +61,40 @@ transformação nos projetos em que me envolvo.
 - Bacharelado em Ciências Econômicas, *Universidade Cesumar* (2024)
 - Bacharelado em Administração, *Centro Universitário Internacional UNINTER* (2016)
 
-### Linguagem e ferramentas:
+### Linguagens & Ferramentas
+- **Linguagens:** Python, R, SQL
+- **Bibliotecas de Processamento:** PySpark, Pandas, Polars, NumPy, DuckDB
+- **Bibliotecas de Visualização:** Matplotlib, Seaborn, Plotly
+- **Business Intelligence:** DAX, Power Query M
 
-- Python, R, SQL, DAX, Power Query M formula language;
-- PySpark, DuckDB,NumPy, Pandas, Polars, data.table;
-- Matplotlib, Seaborn, Plotly.
+### Modelagem & Machine Learning
+- **Bibliotecas:** Scikit-learn, Statsmodels
+- **Técnicas:** Classificação, Regressão, Clusterização, Random Forest, SVM, Gradient Boosting (AdaBoost, XGBoost)
+- **Validação de Modelos:** Cross-validation, Métricas de Performance (Acurácia, Precisão, Recall, F1-Score, AUC-ROC)
 
-### Gerenciamento de banco de dados
+### Visualização de Dados & Storytelling
+- **Ferramentas de Business Intelligence:** Power BI, Tableau, Looker Studio
+- **Dashboards com Código:** Streamlit, Rill, Evidence
+- **Técnicas:** Storytelling com Dados, Comunicação para Stakeholders
 
-- PostgreSQL, MongoDB, MySQL, MariaDB, SQL Server;
-- Datagrip, DBeaver.
+### Engenharia & Bancos de Dados
+- **Bancos de Dados SQL:** PostgreSQL, MySQL, MariaDB, SQL Server
+- **Bancos de Dados NoSQL:** MongoDB
+- **Ferramentas de Acesso:** Datagrip, DBeaver
 
-### Visualização de dados
-- Power BI, Tableau, Looker Studio
-- Streamlit, Evidence, Rill
-
-### Cloud Computing and Data Pipelines
-
-- AWS, Azure, MotherDuck, Oracle Cloud
-- Vercel, Linode, Netlify
-- Databricks
-
-### Machine Learning
-
-- Classification, Regression, Random forests, Support vector machines,
-- AdaBoost, K-nearest neighbor, Naïve Bayes
+### Cloud & Data Pipelines
+- **Plataformas de Nuvem:** AWS, Azure, Oracle Cloud
+- **Plataformas de Dados:** Databricks, MotherDuck
+- **Deployment:** Vercel, Netlify, Linode
 
 
 <!-- Non-technical skills Session -->
-## Habilidades não técnicas
-- [English B2 Upper Intermediate 54/100](https://www.efset.org/cert/qqChFR);
-- Definição de KPIs e indicadores;
-- Probabilidade e Estatística;
-- Metodologias: Scrum, Kanban, Gestão de Riscos, OKR/KPI;
-- Storytelling.
+## Habilidades Comportamentais e de Gestão
+- **Comunicação:** Inglês ([EF SET B2](https://www.efset.org/cert/qqChFR)), Storytelling com Dados para Stakeholders
+- **Estratégia de Negócio:** Definição de KPIs e OKRs, Análise de Riscos
+- **Metodologias Ágeis:** Scrum, Kanban
+- **Fundamentos Analíticos:** Probabilidade e Estatística Aplicada
+
 
 <!-- Philosophy Session -->
 ## :earth_americas: Filosofia de vida:
