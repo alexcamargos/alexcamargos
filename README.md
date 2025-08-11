@@ -51,7 +51,7 @@ transformação nos projetos em que me envolvo.
 
 
 <!-- Skills Session -->
-## Habilidades Técnicas
+## 🛠️ Habilidades Técnicas
 
 <!-- Technical skills Session -->
 ### Formação:
