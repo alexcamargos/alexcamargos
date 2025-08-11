@@ -54,7 +54,7 @@ transformação nos projetos em que me envolvo.
 ## 🛠️ Habilidades Técnicas
 
 <!-- Technical skills Session -->
-### Formação:
+### Formação
 - MBA em Data Science e Analytics, *USP/Esalq* (previsão 2027)
 - Pós-Graduação em Estatística Aplicada, *Anhanguera Educacional* (2025)
 - MBA em Business Intelligence, *Anhanguera Educacional* (2024)
