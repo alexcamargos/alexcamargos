@@ -12,8 +12,9 @@
 Sou um profissional de dados com sólida formação em Economia e Administração, apaixonado por
 resolver problemas complexos de negócio. Minha carreira é movida pela transformação de dados brutos
 em decisões estratégicas, utilizando a tecnologia como meio e o entendimento do negócio como a
-bússola que guia o impacto real.
-Sou **economistas** e **administrador**, áreas nas quais desenvolvi uma paixão por resolver problemas e um espírito destemido para enfrentar novos desafios. Na minha carreira trabalhando na área administrativa, especializei-me na otimização de operações e procedimentos administrativos, focando em tornar sistemas complexos mais eficientes e acessíveis. Essa habilidade me permitiu identificar e implementar melhorias práticas, gerando valor tangível para as organizações com as quais trabalhei.
+bússola que guia o impacto real. Essa abordagem foi aprimorada em minha atuação anterior, onde me
+especializei na otimização de operações e na eficientização de sistemas complexos, uma habilidade
+que hoje aplico para gerar valor tangível através dos dados.
 
 Com uma base técnica que venho construindo desde 2003 no ecossistema GNU/Linux, desenvolvi uma forte
 proficiência em **Python**, **SQL** e no ciclo de vida completo dos dados. Lidero projetos desde a concepção
