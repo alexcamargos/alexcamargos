@@ -122,19 +122,20 @@ Este projeto oferece uma análise detalhada, realizada através do [Microsoft Po
 
 
 <!-- Random Information -->
-## Informações Aleatórias
+## 🧑‍💻 Além do Código
 
-:round_pushpin: Capelinha/MG
+:round_pushpin: **Localização:** Capelinha/MG | Disponível para trabalho remoto
 
-:balloon: **Fatos sobre mim**: :video_game: gamer, :books: leitor, :bicyclist: ciclista, :dog: dog lover, :nerd_face: nerd.
+🌱 **Foco de estudo e desenvolvimento:**
+- **Metodologias Ágeis:** Aprofundando em Scrum e Kanban para otimizar a gestão de projetos e o fluxo de entrega de valor.
+- **Arquitetura de Software:** Estudando padrões de design para criar sistemas mais eficientes e de fácil manutenção.
+- **Estruturas de Dados Avançadas:** Foco em Hash Tables, Árvores e Grafos para otimização de performance em algoritmos complexos.
 
-🌱 **Atualmente estou aprendendo**: Agile Development Methodologies, Software architecture, Data Structures: Hashtables, Trees and Graphs mainly.
-
-:thinking: _I'm looking for help to improve my English!_
+💡 **Collaboration:** Open to projects and collaborations to practice and enhance my technical English.
 
 
 <!-- GitHub stats Session -->
-## GitHub stats
+## 📈 GitHub stats
 
 <div style="display: inline_block">
   <div style="display: flex">
